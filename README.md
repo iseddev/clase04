@@ -2,7 +2,7 @@
 
 Los tres estados de Git
 
-* Untracked
-* Added
-* Modified
-* Commited
+* ***Untracked*** ❌
+* ***Added*** ✅
+* ***Modified*** 🔶
+* ***Commited*** 💙
