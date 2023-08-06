@@ -1,0 +1,1 @@
+window.alert("Esta es una prueba de Alerta")
