@@ -2,7 +2,7 @@
 .button {
     display: inline-block;
     padding: 10px;
-    background-color: aqua;
+    background-color: rgb(54, 103, 201);
     color:black;
     border: none;
     border-radius: 5px;
